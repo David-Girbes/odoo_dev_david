@@ -14,7 +14,7 @@ CRM,Ventas,Facturación,Inventario y Sitio web
 
 He definido productos con su precio, stock y he creado categorías para caracterizarlos, y con atributos y variantes especificas para cada producto por ejemplo la Ram es un componente, y tiene de atributo el GB que tiene, he creado varios almacenes
 
-#Sitio web
+# Sitio web
 
 Puedes registrarte con usuario conntraseña y se creará automáticamente un cliente
 
