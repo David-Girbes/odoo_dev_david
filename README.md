@@ -4,7 +4,7 @@ He hecho la gestión de una tienda online de venta de componentes, pórtatiles, 
 
 # Crear una empresa
 
-He creado una empresa
+He creado una empresa ficticia con datos ficticios para hacer el proyecto
 
 # Modulos instalados o usados
 
